@@ -10,7 +10,7 @@ I am Tahir, I just found this code online which worked for me. I spend several h
 
 I was able to convert Oppo F5 firmware to zip file with this.
 
-**How to use it
+**How to use it**
 
 Open terminal and use thse commands to Install Python
 
@@ -30,7 +30,7 @@ or
 
 It will take a minute ot two to convert, depends on the file size.
 
-- -   With this code you cn convert:-
+**With this code you can convert**
 
 Oppo,Realme
 
