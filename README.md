@@ -10,19 +10,19 @@ I am Tahir, I just found this code online which worked for me. I spend several h
 
 I was able to convert Oppo F5 firmware to zip file with this.
 
-- -  How to use it
+**How to use it
 
 Open terminal and use thse commands to Install Python
 
-sudo apt install python3
-sudo apt install python3-pip
-pip3 install pycrypto
+   sudo apt install python3
+   sudo apt install python3-pip
+   pip3 install pycrypto
 
 Now create a new directory and move .ozip firmware file, ozipdecrypt.py, and ofp_libextract.py in this same folder.
 
 Run  
 
-./ozipdecrypt.py *.ozip
+   ./ozipdecrypt.py *.ozip
 
 or 
 
